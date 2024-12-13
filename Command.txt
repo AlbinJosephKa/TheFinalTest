@@ -1,0 +1,5 @@
+ git add MyFile.txt
+ git commit -m "Added MyFile.txt"
+ git add Info/InfoFile1.txt Info/InfoFile2.txt
+ git commit -m "Added Info files"
+ git config user.name "Albin Joseph_info"
